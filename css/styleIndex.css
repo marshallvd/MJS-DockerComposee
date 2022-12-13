@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f8f8;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 50px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid #8a880e;
+    box-shadow: 0 0 1px 10px #bcb91a7a;
+}
+
+h2 {
+    color: #8a880e;
+    margin: 0;
+}
